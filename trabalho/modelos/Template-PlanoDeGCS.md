@@ -2,7 +2,7 @@
 =================
 Plano de Gerenciamento de Configuração
 ======================================
-Versão &lt;1.0&gt;
+Versão 1.0
 ------------------
 
 _[Observação: O template a seguir é fornecido para uso com o Rational Unified Process (RUP).  O texto exibido entre colchetes e em itálico foi incluído para orientar o autor e deve ser excluído antes da publicação do documento._
@@ -26,9 +26,12 @@ _[A introdução do Plano de Gerenciamento de Configuração  oferece uma visão
 Ela inclui a finalidade, o escopo, as definições, os acrônimos, as abreviações, as referências e uma visão geral deste
 Plano de Gerenciamento de Configuração.]_
 
+
+
 1.1 Finalidade
 ---------------
 _[Especifique a finalidade deste Plano de Gerenciamento de Configuração.]_
+Este documento tem como objetivo padronizar 
 
 1.2 Escopo
 ----------
